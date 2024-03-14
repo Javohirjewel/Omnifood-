@@ -1,0 +1,16 @@
+.brands {
+  padding: 62px 0px;
+}
+.brands .title {
+  text-align: center;
+  text-transform: uppercase;
+  color: gray;
+}
+.brands .cards {
+  margin-top: 30px;
+  margin: 0 auto;
+}
+.brands .cards div {
+  display: flex;
+  justify-content: space-around;
+}/*# sourceMappingURL=brans.css.map */

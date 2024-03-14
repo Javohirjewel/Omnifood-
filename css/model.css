@@ -1,0 +1,53 @@
+.model {
+  margin-top: 30px;
+}
+.model .work_title {
+  margin-top: 30px;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: chocolate;
+}
+.model .work_info {
+  font-weight: 700;
+  font-size: 44px;
+  letter-spacing: 0.02em;
+  color: #555;
+  margin-bottom: 90px;
+}
+.model .card {
+  display: flex;
+  margin-bottom: 96px;
+  justify-content: space-between;
+  align-items: center;
+}
+.model .card .card_info {
+  max-width: 536px;
+}
+.model .card .card_info p {
+  font-weight: 600;
+  font-size: 86px;
+  line-height: 100%;
+  letter-spacing: 0.01em;
+  color: #ddd;
+  margin-bottom: 12px;
+}
+.model .card .card_info h1 {
+  font-weight: 700;
+  font-size: 30px;
+  color: #555;
+  margin-bottom: 32px;
+}
+.model .card .card_info span {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 178%;
+  color: #555;
+}
+.model .card .img {
+  max-width: 536px;
+}
+.model .card .img img {
+  width: 100%;
+}/*# sourceMappingURL=model.css.map */

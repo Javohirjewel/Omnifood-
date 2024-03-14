@@ -1,0 +1,66 @@
+.testimonial {
+  padding: 96px 0;
+}
+.testimonial .test_cont {
+  display: flex;
+  gap: 95px;
+  width: 1300px;
+  margin: 0 auto;
+}
+.testimonial .test_cont .test_info {
+  width: 600px;
+  padding: 0;
+  margin: 0;
+}
+.testimonial .test_cont .test_info .inf_title {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 100%;
+  text-transform: uppercase;
+  color: #e67e22;
+}
+.testimonial .test_cont .test_info .info_content {
+  font-weight: 700;
+  font-size: 44px;
+  color: #555;
+}
+.testimonial .test_cont .test_info .cards {
+  margin-top: 96px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  row-gap: 48px;
+}
+.testimonial .test_cont .test_info .cards .card {
+  width: 260px;
+}
+.testimonial .test_cont .test_info .cards .card img {
+  margin-bottom: 12px;
+}
+.testimonial .test_cont .test_info .cards .card p {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 180%;
+  color: #555;
+}
+.testimonial .test_cont .test_info .cards .card .client {
+  color: #6f6f6f;
+  margin-top: 16px;
+}
+.testimonial .test_cont .test_info .cards .card1 {
+  background-color: #fdf2e9;
+}
+.testimonial .test_cont .test_info .cards .card1 .logo {
+  display: flex;
+}
+.testimonial .test_cont .test_img {
+  width: 620px;
+  display: flex;
+  row-gap: 16px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.testimonial .test_cont .test_img img {
+  width: 195px;
+  height: 195px;
+}/*# sourceMappingURL=testimonial.css.map */

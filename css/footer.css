@@ -1,0 +1,58 @@
+.footer {
+  color: #555;
+  padding: 128px 0px;
+}
+.footer .container .cards {
+  display: flex;
+  justify-content: space-between;
+}
+.footer .container .cards .card {
+  width: 220px;
+  height: 200px;
+}
+.footer .container .cards .card ul {
+  display: flex;
+  list-style: none;
+  gap: 24px;
+  margin-top: 32px;
+}
+.footer .container .cards .card h1 {
+  margin-top: 72px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 160%;
+}
+.footer .container .cards .card .title {
+  font-weight: 500;
+  font-size: 18px;
+  color: #555;
+}
+.footer .container .cards .card .adress {
+  margin-top: 40px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+}
+.footer .container .cards .card .num {
+  font-weight: 400;
+  font-size: 16px;
+  color: #767676;
+  margin-top: 24px;
+}
+.footer .container .cards .card .email {
+  margin-top: 10px;
+  font-weight: 400;
+  font-size: 16px;
+}
+.footer .container .cards .card div {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+.footer .container .cards .card div p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 100%;
+  color: #767676;
+}/*# sourceMappingURL=footer.css.map */

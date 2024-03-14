@@ -1,0 +1,66 @@
+.testimonial{
+    padding: 96px 0;
+    .test_cont{
+      display: flex;
+      gap: 95px;
+      width: 1300px;
+      margin: 0 auto;
+      .test_info{
+        width: 600px;
+        padding: 0;
+        margin: 0;
+        .inf_title{
+          font-weight: 500;
+          font-size: 16px;
+          line-height: 100%;
+          text-transform: uppercase;
+          color: #e67e22;
+        }
+        .info_content{
+          font-weight: 700;
+          font-size: 44px;
+          color: #555;
+        }
+        .cards{
+          margin-top: 96px;
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: space-between;
+          row-gap: 48px;
+          .card{
+            width: 260px;
+            img{
+              margin-bottom: 12px;
+            }
+            p{
+              font-weight: 400;
+              font-size: 18px;
+              line-height: 180%;
+              color: #555;
+            }
+            .client{
+              color: #6f6f6f;
+              margin-top: 16px;
+            }
+          }
+          .card1{
+            background-color: #fdf2e9;
+            .logo{
+              display: flex;
+            }
+          }
+        }
+      }
+      .test_img{
+        width: 620px;
+        display: flex;
+        row-gap: 16px;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        img{
+          width: 195px;
+          height: 195px;
+        }
+      }
+    }
+  }

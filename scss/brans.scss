@@ -1,0 +1,17 @@
+.brands{
+    padding: 62px 0px; 
+    .title{
+      text-align: center;
+      text-transform:uppercase;
+      color: gray;
+    }
+    .cards{
+      margin-top: 30px;
+      margin: 0 auto;
+    
+      div{
+        display: flex;
+        justify-content: space-around;
+      }
+    }
+  }
